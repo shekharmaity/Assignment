@@ -1,0 +1,16 @@
+{
+"employee_id":"125",
+"activities":[
+{
+"name":"login",
+"time":"2020-01-19 12:25:12",
+"duration":"70"
+},
+{
+"name":"teabreak",
+"time":"2020-01-19 13:25:12",
+"duration":"70"
+}
+]
+}
+
